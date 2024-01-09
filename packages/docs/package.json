@@ -9,6 +9,7 @@
     "deploy-storybook": "storybook-to-ghpages",
     "preview": "vite preview",
     "build": " storybook build",
+    "build-vite": "tsc && vite build",
     "storybook": "storybook dev -p 6006"
   },
   "dependencies": {
